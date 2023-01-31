@@ -120,13 +120,13 @@ nav: "categories"
 ```yml
 # sidebar navigation (categories)
 categories:
-  - title: "Categories1"
+  - title: "Categories11"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "Categories22"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "Categories33"
     url: /categories/categories3/
-  - title: "Categories4"
+  - title: "Categories44"
     url: /categories/categories4/
 ```
 
